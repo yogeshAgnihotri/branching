@@ -2,3 +2,4 @@ featuring1+bugfix1
 featuring2
 featuring3
 featuring4
+bugfix2
